@@ -1,0 +1,23 @@
+(footprint "2430Holder" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "BT?" (at 0 3.4 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp ac6d7b93-a371-45ce-8e57-d47aca2f99dc)
+  )
+  (fp_text value "2430Holder" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c1fccde7-37fa-4b22-be5e-80e676af695e)
+  )
+  (pad "1" thru_hole rect (at -13.815 0) (size 5.2 5.2) (drill 2.5) (layers "*.Cu" "*.Mask")
+    (thermal_bridge_angle 45) (tstamp 66d0182b-84d6-4ec6-b068-9bdbc7fce418))
+  (pad "1" thru_hole rect (at 13.815 0) (size 5.2 5.2) (drill 2.5) (layers "*.Cu" "*.Mask")
+    (thermal_bridge_angle 45) (tstamp b571c1ea-1f53-4440-a717-4b4830bfc255))
+  (pad "2" thru_hole rect (at 0 0) (size 4 4) (drill 1) (layers "*.Cu" "*.Mask") (tstamp d5facab8-d0de-4bbf-a32f-51ae8651cb95))
+  (group "" (id dde8ae8f-835e-4d4d-8c33-a38cff5e0aa1)
+    (members
+      66d0182b-84d6-4ec6-b068-9bdbc7fce418
+      b571c1ea-1f53-4440-a717-4b4830bfc255
+    )
+  )
+)
