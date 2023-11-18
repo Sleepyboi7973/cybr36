@@ -29,6 +29,7 @@ Print the plate at 100% size and the case at 101.5% size to ensure that the pcb 
 | Rubber Feet                  | 10 |
 | 10mm M2 Screw                | 8  |
 | nice!nano V2                 | 2  |
+| 1x12 Pin Header              | 4  |
 | MX Switches                  | 36 |
 | MX 1u Keycaps                | 36 |
 | MX Hotswap Sockets           | 36 |
