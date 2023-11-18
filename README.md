@@ -16,7 +16,7 @@ The cybr36 runs ZMK firmware which can be found on my profile [here](https://git
 
 
 ## Case Printing Tips
-Print the plate at 100% size and the case at 101.5% size to ensure that the pcb and plate fit inside without issue. I printed my case with no top or bottom layers, and triangular infill at 30%
+Print the plate at 100% size and the case at 101.5% size to ensure that the pcb and plate fit inside without issue. I printed my case with no top or bottom layers, no supports, and triangular infill at 30%
 
 ## Build Guide
 
