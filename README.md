@@ -11,9 +11,11 @@
 
 ![the back of just one](images/IMG_1083.jpg)<br>
 
-# Firmware
+## Firmware
+The cybr36 runs ZMK firmware which can be found on my profile [here](https://github.com/Sleepyboi7973/zmk-config-cybr36).
 
-# Case Printing Tips
+
+## Case Printing Tips
 Print the plate at 100% size and the case at 101.5% size to ensure that the pcb and plate fit inside without issue
 
-# Build Guide
+## Build Guide
