@@ -9,11 +9,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 680f4d2a-74db-4107-867d-32a395afdf97)
   )
-  (pad "1" smd rect (at -2.75 0) (size 2.1 2) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "1" smd rect (at -2.2 0) (size 1.1 2) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp f66c5158-59d5-47c6-be17-ee28ff20a28e))
-  (pad "2" smd rect (at 2.75 0) (size 2.1 2) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "2" smd rect (at 2.3 0) (size 1.1 2) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 79d71e1e-5ef2-4e02-8212-a9bc134e1d59))
-  (group "" (id 95f338ed-9edf-446a-a44d-adf07450ac80)
+  (group "" (id a16faa08-2e7f-4073-bdba-f1e21039b209)
     (members
       79d71e1e-5ef2-4e02-8212-a9bc134e1d59
       f66c5158-59d5-47c6-be17-ee28ff20a28e
