@@ -1,2 +1,5 @@
 # cybr36
- 36 key split keyboard
+ Wireless 36 key keyboard using button cell batteries and nice!nano controllers.
+
+ # Pictures
+ 
