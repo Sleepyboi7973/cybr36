@@ -11,6 +11,8 @@
 
 ![the back of just one](images/IMG_1083.jpg)<br>
 
+![pcb](images/pcb.png)<br>
+
 ## Firmware
 The cybr36 runs ZMK firmware which can be found on my profile [here](https://github.com/Sleepyboi7973/zmk-config-cybr36).
 
