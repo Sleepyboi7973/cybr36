@@ -10,3 +10,10 @@
 ![now just one](images/IMG_1082.jpg)<br>
 
 ![the back of just one](images/IMG_1083.jpg)<br>
+
+# Firmware
+
+# Case Printing Tips
+Print the plate at 100% size and the case at 101.5% size to ensure that the pcb and plate fit inside without issue
+
+# Build Guide
