@@ -22,7 +22,6 @@ Print the plate at 100% size and the case at 101.5% size to ensure that the pcb 
 
 ### Bill of Materials:
 | PCB                          | 2  |
-|------------------------------|----|
 | Plate                        | 2  |
 | Case                         | 2  |
 | Rubber Feet                  | 10 |
